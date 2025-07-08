@@ -27,14 +27,3 @@ class HomeView(TemplateView):
         context['ordenar'] = ordenar
 
         return context
-
-
-# class AuthorDetailView(View):
-#     def get(self, request, name):
-#         author = get_object_or_404(models.Author, name=name)
-#         quotes = models.Quote.objects.filter(author=author)
-#         context = {
-#             'author': author,
-#             'quotes': quotes
-#         }
-#         return render(request, 'author_detail.html', context)
