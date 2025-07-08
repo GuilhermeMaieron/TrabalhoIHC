@@ -1,0 +1,78 @@
+{% extends "main.html" %}
+{% load static %}
+
+
+{% block banner %}
+    <div class="banner">
+        <img src="{% static 'imgs/cafeucs.png' %}">
+
+        <div class="banner_content">
+            <div class="search-box">
+                <input type="text" name="qs" placeholder="Pesquisar por lugares..." value="{{request.GET.qs}}">
+                <button type="submit">Buscar</button>
+            </div>
+        </div>
+    </div>
+{% endblock %}
+
+{% block content %}
+    <div class="d-flex justify-content-between">
+        <div class="count">
+            {{ count }} lugares encontrados.
+        </div>
+        
+        <div>
+            <label for="ordenar" class="form-label">Ordenar por:</label>
+            <select name="ordenar" id="ordenar" class="form-select w-auto d-inline-block" onchange="this.form.submit()">
+                <option value="nome" {% if ordenar == 'nome' %}selected{% endif %}>Nome (A-Z)</option>
+                <option value="abre" {% if ordenar == 'abre' %}selected{% endif %}>Horário que abre</option>
+                <option value="fecha" {% if ordenar == 'fecha' %}selected{% endif %}>Horário que fecha</option>
+            </select>
+        </div>
+    </div>
+
+    <div class="lugar_container">
+        {% for lugar in lugares %}
+            <div class="card_container">
+                <div class="card" data-bs-toggle="modal" data-bs-target="#modalLugar{{ lugar.id }}">
+                    {% if lugar.foto %}
+                        <img src="{{ lugar.foto.url }}" alt="Foto de {{ lugar.nome }}">
+                    {% else %}
+                        <img src="{% static 'imgs/placeholder.jpg' %}" alt="Sem foto disponível">
+                    {% endif %}
+                    
+                    <div class="card-content">
+                        <h2>{{ lugar.nome }}</h2>
+                        <div class="local">{{ lugar.local }}</div>
+                        <div class="horarios">
+                            Aberto: {{ lugar.horario_abre|time:"H:i" }} - {{ lugar.horario_fecha|time:"H:i" }}
+                        </div>
+                    </div>
+                </div>
+            </div>
+    
+            <div class="modal fade" id="modalLugar{{ lugar.id }}" tabindex="-1" aria-labelledby="modalLabel{{ lugar.id }}" aria-hidden="true">
+                <div class="modal-dialog modal-dialog-centered modal-lg">
+                    <div class="modal-content">
+                        <div class="modal-header">
+                            <h5 class="modal-title" id="modalLabel{{ lugar.id }}">{{ lugar.nome }}</h5>
+                            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Fechar"></button>
+                        </div>
+                        <div class="modal-body">
+                            {% if lugar.foto %}
+                                <img src="{{ lugar.foto.url }}" class="foto_modal" alt="Foto de {{ lugar.nome }}">
+                            {% else %}
+                                <img src="{% static 'imgs/placeholder.jpg' %}" class="foto_modal" alt="Sem foto disponível">
+                            {% endif %}
+                            <p><strong>Local:</strong> {{ lugar.local }}</p>
+                            <p><strong>Horário de funcionamento:</strong> {{ lugar.horario_abre|time:"H:i" }} – {{ lugar.horario_fecha|time:"H:i" }}</p>
+                            {% if lugar.descricao %}
+                            <p><strong>Descrição:</strong> {{ lugar.descricao }}</p>
+                            {% endif %}
+                        </div>
+                    </div>
+                </div>
+            </div>
+        {% endfor %}
+    </div>
+{% endblock %}

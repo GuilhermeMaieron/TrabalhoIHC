@@ -1,0 +1,848 @@
+2025-07-08 03:00:28,101 [WARNING] django.request: Not Found: /favicon.ico
+2025-07-08 03:00:28,101 [WARNING] django.server: "GET /favicon.ico HTTP/1.1" 404 2456
+2025-07-08 06:02:11,140 [WARNING] django.request: Not Found: /favicon.ico
+2025-07-08 06:02:11,141 [WARNING] django.server: "GET /favicon.ico HTTP/1.1" 404 2456
+2025-07-08 06:02:19,589 [WARNING] django.request: Not Found: /favicon.ico
+2025-07-08 06:02:19,590 [WARNING] django.server: "GET /favicon.ico HTTP/1.1" 404 2456
+2025-07-08 06:04:21,209 [WARNING] django.request: Not Found: /favicon.ico
+2025-07-08 06:04:21,209 [WARNING] django.server: "GET /favicon.ico HTTP/1.1" 404 2456
+2025-07-08 06:04:21,218 [WARNING] django.request: Not Found: /ucs_agenda/_next/image
+2025-07-08 06:04:21,221 [WARNING] django.request: Not Found: /ucs_agenda/_next/image
+2025-07-08 06:04:21,225 [WARNING] django.request: Not Found: /ucs_agenda/_next/image
+2025-07-08 06:04:21,226 [WARNING] django.server: "GET /ucs_agenda/_next/image?url=%2Fucs_agenda%2F_next%2Fstatic%2Fmedia%2FUcsSimplificado.d4f47d72.png&w=384&q=75 HTTP/1.1" 404 2582
+2025-07-08 06:04:21,228 [WARNING] django.request: Not Found: /ucs_agenda/_next/image
+2025-07-08 06:04:21,228 [WARNING] django.server: "GET /ucs_agenda/_next/image?url=%2Fucs_agenda%2F_next%2Fstatic%2Fmedia%2FFucsSimplificado.ceea7a3b.png&w=640&q=75 HTTP/1.1" 404 2583
+2025-07-08 06:04:21,230 [WARNING] django.request: Not Found: /ucs_agenda/_next/image
+2025-07-08 06:04:21,231 [WARNING] django.server: "GET /ucs_agenda/_next/image?url=%2Fucs_agenda%2F_next%2Fstatic%2Fmedia%2FCetec.8f89e591.png&w=640&q=75 HTTP/1.1" 404 2572
+2025-07-08 06:04:21,233 [WARNING] django.request: Not Found: /ucs_agenda/_next/image
+2025-07-08 06:04:21,233 [WARNING] django.server: "GET /ucs_agenda/_next/image?url=%2Fucs_agenda%2F_next%2Fstatic%2Fmedia%2FUcsFm.01a6a258.png&w=384&q=75 HTTP/1.1" 404 2572
+2025-07-08 06:04:21,234 [WARNING] django.server: "GET /ucs_agenda/_next/image?url=%2Fucs_agenda%2F_next%2Fstatic%2Fmedia%2FHg.56b2708b.png&w=384&q=75 HTTP/1.1" 404 2569
+2025-07-08 06:04:21,235 [WARNING] django.server: "GET /ucs_agenda/_next/image?url=%2Fucs_agenda%2F_next%2Fstatic%2Fmedia%2FLogoUcsAgenda.efc3eb02.png&w=2048&q=75 HTTP/1.1" 404 2581
+2025-07-08 06:04:21,681 [WARNING] django.request: Not Found: /ucs_agenda
+2025-07-08 06:04:21,681 [WARNING] django.server: "GET /ucs_agenda HTTP/1.1" 404 2453
+2025-07-08 06:04:22,712 [WARNING] django.request: Not Found: /ucs_agenda
+2025-07-08 06:04:22,713 [WARNING] django.server: "GET /ucs_agenda HTTP/1.1" 404 2453
+2025-07-08 06:04:22,726 [WARNING] django.request: Not Found: /favicon.ico
+2025-07-08 06:04:22,726 [WARNING] django.server: "GET /favicon.ico HTTP/1.1" 404 2456
+2025-07-08 06:04:23,507 [WARNING] django.request: Not Found: /ucs_agenda
+2025-07-08 06:04:23,507 [WARNING] django.server: "GET /ucs_agenda HTTP/1.1" 404 2453
+2025-07-08 06:04:23,858 [WARNING] django.request: Not Found: /ucs_agenda
+2025-07-08 06:04:23,859 [WARNING] django.server: "GET /ucs_agenda HTTP/1.1" 404 2453
+2025-07-08 06:04:24,055 [WARNING] django.request: Not Found: /ucs_agenda
+2025-07-08 06:04:24,056 [WARNING] django.server: "GET /ucs_agenda HTTP/1.1" 404 2453
+2025-07-08 06:04:24,239 [WARNING] django.request: Not Found: /ucs_agenda
+2025-07-08 06:04:24,239 [WARNING] django.server: "GET /ucs_agenda HTTP/1.1" 404 2453
+2025-07-08 06:04:24,417 [WARNING] django.request: Not Found: /ucs_agenda
+2025-07-08 06:04:24,417 [WARNING] django.server: "GET /ucs_agenda HTTP/1.1" 404 2453
+2025-07-08 06:04:24,605 [WARNING] django.request: Not Found: /ucs_agenda
+2025-07-08 06:04:24,606 [WARNING] django.server: "GET /ucs_agenda HTTP/1.1" 404 2453
+2025-07-08 06:04:27,632 [WARNING] django.request: Not Found: /ucs_agenda
+2025-07-08 06:04:27,633 [WARNING] django.server: "GET /ucs_agenda HTTP/1.1" 404 2453
+2025-07-08 06:04:28,057 [WARNING] django.request: Not Found: /ucs_agenda
+2025-07-08 06:04:28,058 [WARNING] django.server: "GET /ucs_agenda HTTP/1.1" 404 2453
+2025-07-08 06:04:28,350 [WARNING] django.request: Not Found: /ucs_agenda
+2025-07-08 06:04:28,351 [WARNING] django.server: "GET /ucs_agenda HTTP/1.1" 404 2453
+2025-07-08 06:04:32,647 [WARNING] django.request: Not Found: /favicon.ico
+2025-07-08 06:04:32,647 [WARNING] django.server: "GET /favicon.ico HTTP/1.1" 404 2456
+2025-07-08 06:04:32,661 [WARNING] django.request: Not Found: /ucs_agenda/_next/image
+2025-07-08 06:04:32,663 [WARNING] django.request: Not Found: /ucs_agenda/_next/image
+2025-07-08 06:04:32,666 [WARNING] django.request: Not Found: /ucs_agenda/_next/image
+2025-07-08 06:04:32,668 [WARNING] django.request: Not Found: /ucs_agenda/_next/image
+2025-07-08 06:04:32,672 [WARNING] django.request: Not Found: /ucs_agenda/_next/image
+2025-07-08 06:04:32,672 [WARNING] django.server: "GET /ucs_agenda/_next/image?url=%2Fucs_agenda%2F_next%2Fstatic%2Fmedia%2FUcsSimplificado.d4f47d72.png&w=384&q=75 HTTP/1.1" 404 2582
+2025-07-08 06:04:32,675 [WARNING] django.request: Not Found: /ucs_agenda/_next/image
+2025-07-08 06:04:32,675 [WARNING] django.server: "GET /ucs_agenda/_next/image?url=%2Fucs_agenda%2F_next%2Fstatic%2Fmedia%2FCetec.8f89e591.png&w=640&q=75 HTTP/1.1" 404 2572
+2025-07-08 06:04:32,675 [WARNING] django.server: "GET /ucs_agenda/_next/image?url=%2Fucs_agenda%2F_next%2Fstatic%2Fmedia%2FUcsFm.01a6a258.png&w=384&q=75 HTTP/1.1" 404 2572
+2025-07-08 06:04:32,676 [WARNING] django.server: "GET /ucs_agenda/_next/image?url=%2Fucs_agenda%2F_next%2Fstatic%2Fmedia%2FFucsSimplificado.ceea7a3b.png&w=640&q=75 HTTP/1.1" 404 2583
+2025-07-08 06:04:32,676 [WARNING] django.server: "GET /ucs_agenda/_next/image?url=%2Fucs_agenda%2F_next%2Fstatic%2Fmedia%2FHg.56b2708b.png&w=384&q=75 HTTP/1.1" 404 2569
+2025-07-08 06:04:32,676 [WARNING] django.server: "GET /ucs_agenda/_next/image?url=%2Fucs_agenda%2F_next%2Fstatic%2Fmedia%2FLogoUcsAgenda.efc3eb02.png&w=2048&q=75 HTTP/1.1" 404 2581
+2025-07-08 06:07:51,443 [WARNING] django.request: Not Found: /favicon.ico
+2025-07-08 06:07:51,443 [WARNING] django.server: "GET /favicon.ico HTTP/1.1" 404 2456
+2025-07-08 06:07:51,456 [WARNING] django.request: Not Found: /ucs_agenda/_next/image
+2025-07-08 06:07:51,458 [WARNING] django.request: Not Found: /ucs_agenda/_next/image
+2025-07-08 06:07:51,459 [WARNING] django.server: "GET /static/seu_app/imagens/exemplo.jpg HTTP/1.1" 404 1895
+2025-07-08 06:07:51,460 [WARNING] django.server: "GET /ucs_agenda/_next/image?url=%2Fucs_agenda%2F_next%2Fstatic%2Fmedia%2FFucsSimplificado.ceea7a3b.png&w=640&q=75 HTTP/1.1" 404 2583
+2025-07-08 06:07:51,462 [WARNING] django.request: Not Found: /ucs_agenda/_next/image
+2025-07-08 06:07:51,463 [WARNING] django.server: "GET /ucs_agenda/_next/image?url=%2Fucs_agenda%2F_next%2Fstatic%2Fmedia%2FCetec.8f89e591.png&w=640&q=75 HTTP/1.1" 404 2572
+2025-07-08 06:07:51,466 [WARNING] django.request: Not Found: /ucs_agenda/_next/image
+2025-07-08 06:07:51,469 [WARNING] django.request: Not Found: /ucs_agenda/_next/image
+2025-07-08 06:07:51,469 [WARNING] django.server: "GET /ucs_agenda/_next/image?url=%2Fucs_agenda%2F_next%2Fstatic%2Fmedia%2FUcsFm.01a6a258.png&w=384&q=75 HTTP/1.1" 404 2572
+2025-07-08 06:07:51,469 [WARNING] django.server: "GET /ucs_agenda/_next/image?url=%2Fucs_agenda%2F_next%2Fstatic%2Fmedia%2FHg.56b2708b.png&w=384&q=75 HTTP/1.1" 404 2569
+2025-07-08 06:07:51,470 [WARNING] django.server: "GET /ucs_agenda/_next/image?url=%2Fucs_agenda%2F_next%2Fstatic%2Fmedia%2FLogoUcsAgenda.efc3eb02.png&w=2048&q=75 HTTP/1.1" 404 2581
+2025-07-08 06:07:51,982 [WARNING] django.request: Not Found: /ucs_agenda/_next/image
+2025-07-08 06:07:51,983 [WARNING] django.server: "GET /ucs_agenda/_next/image?url=%2Fucs_agenda%2F_next%2Fstatic%2Fmedia%2FFucsSimplificado.ceea7a3b.png&w=640&q=75 HTTP/1.1" 404 2583
+2025-07-08 06:07:51,986 [WARNING] django.request: Not Found: /ucs_agenda/_next/image
+2025-07-08 06:07:51,988 [WARNING] django.request: Not Found: /ucs_agenda/_next/image
+2025-07-08 06:07:51,992 [WARNING] django.request: Not Found: /ucs_agenda/_next/image
+2025-07-08 06:07:51,994 [WARNING] django.request: Not Found: /ucs_agenda/_next/image
+2025-07-08 06:07:51,994 [WARNING] django.server: "GET /static/seu_app/imagens/exemplo.jpg HTTP/1.1" 404 1895
+2025-07-08 06:07:51,994 [WARNING] django.server: "GET /ucs_agenda/_next/image?url=%2Fucs_agenda%2F_next%2Fstatic%2Fmedia%2FLogoUcsAgenda.efc3eb02.png&w=2048&q=75 HTTP/1.1" 404 2581
+2025-07-08 06:07:51,995 [WARNING] django.server: "GET /ucs_agenda/_next/image?url=%2Fucs_agenda%2F_next%2Fstatic%2Fmedia%2FUcsFm.01a6a258.png&w=384&q=75 HTTP/1.1" 404 2572
+2025-07-08 06:07:51,995 [WARNING] django.server: "GET /ucs_agenda/_next/image?url=%2Fucs_agenda%2F_next%2Fstatic%2Fmedia%2FCetec.8f89e591.png&w=640&q=75 HTTP/1.1" 404 2572
+2025-07-08 06:07:51,995 [WARNING] django.server: "GET /ucs_agenda/_next/image?url=%2Fucs_agenda%2F_next%2Fstatic%2Fmedia%2FHg.56b2708b.png&w=384&q=75 HTTP/1.1" 404 2569
+2025-07-08 06:07:52,304 [WARNING] django.request: Not Found: /ucs_agenda/_next/image
+2025-07-08 06:07:52,306 [WARNING] django.request: Not Found: /ucs_agenda/_next/image
+2025-07-08 06:07:52,309 [WARNING] django.request: Not Found: /ucs_agenda/_next/image
+2025-07-08 06:07:52,311 [WARNING] django.request: Not Found: /ucs_agenda/_next/image
+2025-07-08 06:07:52,314 [WARNING] django.request: Not Found: /ucs_agenda/_next/image
+2025-07-08 06:07:52,314 [WARNING] django.server: "GET /static/seu_app/imagens/exemplo.jpg HTTP/1.1" 404 1895
+2025-07-08 06:07:52,315 [WARNING] django.server: "GET /ucs_agenda/_next/image?url=%2Fucs_agenda%2F_next%2Fstatic%2Fmedia%2FHg.56b2708b.png&w=384&q=75 HTTP/1.1" 404 2569
+2025-07-08 06:07:52,315 [WARNING] django.server: "GET /ucs_agenda/_next/image?url=%2Fucs_agenda%2F_next%2Fstatic%2Fmedia%2FCetec.8f89e591.png&w=640&q=75 HTTP/1.1" 404 2572
+2025-07-08 06:07:52,315 [WARNING] django.server: "GET /ucs_agenda/_next/image?url=%2Fucs_agenda%2F_next%2Fstatic%2Fmedia%2FUcsFm.01a6a258.png&w=384&q=75 HTTP/1.1" 404 2572
+2025-07-08 06:07:52,315 [WARNING] django.server: "GET /ucs_agenda/_next/image?url=%2Fucs_agenda%2F_next%2Fstatic%2Fmedia%2FLogoUcsAgenda.efc3eb02.png&w=2048&q=75 HTTP/1.1" 404 2581
+2025-07-08 06:07:52,316 [WARNING] django.server: "GET /ucs_agenda/_next/image?url=%2Fucs_agenda%2F_next%2Fstatic%2Fmedia%2FFucsSimplificado.ceea7a3b.png&w=640&q=75 HTTP/1.1" 404 2583
+2025-07-08 06:07:52,506 [WARNING] django.request: Not Found: /ucs_agenda/_next/image
+2025-07-08 06:07:52,511 [WARNING] django.request: Not Found: /ucs_agenda/_next/image
+2025-07-08 06:07:52,513 [WARNING] django.request: Not Found: /ucs_agenda/_next/image
+2025-07-08 06:07:52,517 [WARNING] django.request: Not Found: /ucs_agenda/_next/image
+2025-07-08 06:07:52,518 [WARNING] django.server: "GET /ucs_agenda/_next/image?url=%2Fucs_agenda%2F_next%2Fstatic%2Fmedia%2FUcsFm.01a6a258.png&w=384&q=75 HTTP/1.1" 404 2572
+2025-07-08 06:07:52,521 [WARNING] django.request: Not Found: /ucs_agenda/_next/image
+2025-07-08 06:07:52,521 [WARNING] django.server: "GET /static/seu_app/imagens/exemplo.jpg HTTP/1.1" 404 1895
+2025-07-08 06:07:52,522 [WARNING] django.server: "GET /ucs_agenda/_next/image?url=%2Fucs_agenda%2F_next%2Fstatic%2Fmedia%2FCetec.8f89e591.png&w=640&q=75 HTTP/1.1" 404 2572
+2025-07-08 06:07:52,522 [WARNING] django.server: "GET /ucs_agenda/_next/image?url=%2Fucs_agenda%2F_next%2Fstatic%2Fmedia%2FFucsSimplificado.ceea7a3b.png&w=640&q=75 HTTP/1.1" 404 2583
+2025-07-08 06:07:52,522 [WARNING] django.server: "GET /ucs_agenda/_next/image?url=%2Fucs_agenda%2F_next%2Fstatic%2Fmedia%2FHg.56b2708b.png&w=384&q=75 HTTP/1.1" 404 2569
+2025-07-08 06:07:52,523 [WARNING] django.server: "GET /ucs_agenda/_next/image?url=%2Fucs_agenda%2F_next%2Fstatic%2Fmedia%2FLogoUcsAgenda.efc3eb02.png&w=2048&q=75 HTTP/1.1" 404 2581
+2025-07-08 06:08:10,861 [WARNING] django.request: Not Found: /favicon.ico
+2025-07-08 06:08:10,861 [WARNING] django.server: "GET /favicon.ico HTTP/1.1" 404 2456
+2025-07-08 06:08:10,868 [WARNING] django.request: Not Found: /ucs_agenda/_next/image
+2025-07-08 06:08:10,869 [WARNING] django.server: "GET /static/FucsSimplificado.jpg HTTP/1.1" 404 1874
+2025-07-08 06:08:10,871 [WARNING] django.request: Not Found: /ucs_agenda/_next/image
+2025-07-08 06:08:10,873 [WARNING] django.request: Not Found: /ucs_agenda/_next/image
+2025-07-08 06:08:10,875 [WARNING] django.request: Not Found: /ucs_agenda/_next/image
+2025-07-08 06:08:10,878 [WARNING] django.request: Not Found: /ucs_agenda/_next/image
+2025-07-08 06:08:10,878 [WARNING] django.server: "GET /ucs_agenda/_next/image?url=%2Fucs_agenda%2F_next%2Fstatic%2Fmedia%2FFucsSimplificado.ceea7a3b.png&w=640&q=75 HTTP/1.1" 404 2583
+2025-07-08 06:08:10,878 [WARNING] django.server: "GET /ucs_agenda/_next/image?url=%2Fucs_agenda%2F_next%2Fstatic%2Fmedia%2FUcsFm.01a6a258.png&w=384&q=75 HTTP/1.1" 404 2572
+2025-07-08 06:08:10,879 [WARNING] django.server: "GET /ucs_agenda/_next/image?url=%2Fucs_agenda%2F_next%2Fstatic%2Fmedia%2FCetec.8f89e591.png&w=640&q=75 HTTP/1.1" 404 2572
+2025-07-08 06:08:10,879 [WARNING] django.server: "GET /ucs_agenda/_next/image?url=%2Fucs_agenda%2F_next%2Fstatic%2Fmedia%2FHg.56b2708b.png&w=384&q=75 HTTP/1.1" 404 2569
+2025-07-08 06:08:10,879 [WARNING] django.server: "GET /ucs_agenda/_next/image?url=%2Fucs_agenda%2F_next%2Fstatic%2Fmedia%2FLogoUcsAgenda.efc3eb02.png&w=2048&q=75 HTTP/1.1" 404 2581
+2025-07-08 06:08:11,319 [WARNING] django.request: Not Found: /ucs_agenda/_next/image
+2025-07-08 06:08:11,322 [WARNING] django.request: Not Found: /ucs_agenda/_next/image
+2025-07-08 06:08:11,326 [WARNING] django.request: Not Found: /ucs_agenda/_next/image
+2025-07-08 06:08:11,329 [WARNING] django.request: Not Found: /ucs_agenda/_next/image
+2025-07-08 06:08:11,331 [WARNING] django.request: Not Found: /ucs_agenda/_next/image
+2025-07-08 06:08:11,331 [WARNING] django.server: "GET /static/FucsSimplificado.jpg HTTP/1.1" 404 1874
+2025-07-08 06:08:11,331 [WARNING] django.server: "GET /ucs_agenda/_next/image?url=%2Fucs_agenda%2F_next%2Fstatic%2Fmedia%2FFucsSimplificado.ceea7a3b.png&w=640&q=75 HTTP/1.1" 404 2583
+2025-07-08 06:08:11,332 [WARNING] django.server: "GET /ucs_agenda/_next/image?url=%2Fucs_agenda%2F_next%2Fstatic%2Fmedia%2FUcsFm.01a6a258.png&w=384&q=75 HTTP/1.1" 404 2572
+2025-07-08 06:08:11,332 [WARNING] django.server: "GET /ucs_agenda/_next/image?url=%2Fucs_agenda%2F_next%2Fstatic%2Fmedia%2FHg.56b2708b.png&w=384&q=75 HTTP/1.1" 404 2569
+2025-07-08 06:08:11,332 [WARNING] django.server: "GET /ucs_agenda/_next/image?url=%2Fucs_agenda%2F_next%2Fstatic%2Fmedia%2FCetec.8f89e591.png&w=640&q=75 HTTP/1.1" 404 2572
+2025-07-08 06:08:11,333 [WARNING] django.server: "GET /ucs_agenda/_next/image?url=%2Fucs_agenda%2F_next%2Fstatic%2Fmedia%2FLogoUcsAgenda.efc3eb02.png&w=2048&q=75 HTTP/1.1" 404 2581
+2025-07-08 06:08:11,636 [WARNING] django.request: Not Found: /ucs_agenda/_next/image
+2025-07-08 06:08:11,639 [WARNING] django.request: Not Found: /ucs_agenda/_next/image
+2025-07-08 06:08:11,641 [WARNING] django.request: Not Found: /ucs_agenda/_next/image
+2025-07-08 06:08:11,643 [WARNING] django.request: Not Found: /ucs_agenda/_next/image
+2025-07-08 06:08:11,648 [WARNING] django.request: Not Found: /ucs_agenda/_next/image
+2025-07-08 06:08:11,648 [WARNING] django.server: "GET /ucs_agenda/_next/image?url=%2Fucs_agenda%2F_next%2Fstatic%2Fmedia%2FFucsSimplificado.ceea7a3b.png&w=640&q=75 HTTP/1.1" 404 2583
+2025-07-08 06:08:11,648 [WARNING] django.server: "GET /static/FucsSimplificado.jpg HTTP/1.1" 404 1874
+2025-07-08 06:08:11,648 [WARNING] django.server: "GET /ucs_agenda/_next/image?url=%2Fucs_agenda%2F_next%2Fstatic%2Fmedia%2FCetec.8f89e591.png&w=640&q=75 HTTP/1.1" 404 2572
+2025-07-08 06:08:11,649 [WARNING] django.server: "GET /ucs_agenda/_next/image?url=%2Fucs_agenda%2F_next%2Fstatic%2Fmedia%2FUcsFm.01a6a258.png&w=384&q=75 HTTP/1.1" 404 2572
+2025-07-08 06:08:11,649 [WARNING] django.server: "GET /ucs_agenda/_next/image?url=%2Fucs_agenda%2F_next%2Fstatic%2Fmedia%2FHg.56b2708b.png&w=384&q=75 HTTP/1.1" 404 2569
+2025-07-08 06:08:11,649 [WARNING] django.server: "GET /ucs_agenda/_next/image?url=%2Fucs_agenda%2F_next%2Fstatic%2Fmedia%2FLogoUcsAgenda.efc3eb02.png&w=2048&q=75 HTTP/1.1" 404 2581
+2025-07-08 06:08:11,831 [WARNING] django.request: Not Found: /favicon.ico
+2025-07-08 06:08:11,832 [WARNING] django.server: "GET /favicon.ico HTTP/1.1" 404 2456
+2025-07-08 06:08:11,845 [WARNING] django.request: Not Found: /ucs_agenda/_next/image
+2025-07-08 06:08:11,848 [WARNING] django.request: Not Found: /ucs_agenda/_next/image
+2025-07-08 06:08:11,851 [WARNING] django.request: Not Found: /ucs_agenda/_next/image
+2025-07-08 06:08:11,851 [WARNING] django.server: "GET /static/FucsSimplificado.jpg HTTP/1.1" 404 1874
+2025-07-08 06:08:11,854 [WARNING] django.request: Not Found: /ucs_agenda/_next/image
+2025-07-08 06:08:11,854 [WARNING] django.server: "GET /ucs_agenda/_next/image?url=%2Fucs_agenda%2F_next%2Fstatic%2Fmedia%2FCetec.8f89e591.png&w=640&q=75 HTTP/1.1" 404 2572
+2025-07-08 06:08:11,857 [WARNING] django.request: Not Found: /ucs_agenda/_next/image
+2025-07-08 06:08:11,857 [WARNING] django.server: "GET /ucs_agenda/_next/image?url=%2Fucs_agenda%2F_next%2Fstatic%2Fmedia%2FUcsFm.01a6a258.png&w=384&q=75 HTTP/1.1" 404 2572
+2025-07-08 06:08:11,857 [WARNING] django.server: "GET /ucs_agenda/_next/image?url=%2Fucs_agenda%2F_next%2Fstatic%2Fmedia%2FFucsSimplificado.ceea7a3b.png&w=640&q=75 HTTP/1.1" 404 2583
+2025-07-08 06:08:11,857 [WARNING] django.server: "GET /ucs_agenda/_next/image?url=%2Fucs_agenda%2F_next%2Fstatic%2Fmedia%2FHg.56b2708b.png&w=384&q=75 HTTP/1.1" 404 2569
+2025-07-08 06:08:11,858 [WARNING] django.server: "GET /ucs_agenda/_next/image?url=%2Fucs_agenda%2F_next%2Fstatic%2Fmedia%2FLogoUcsAgenda.efc3eb02.png&w=2048&q=75 HTTP/1.1" 404 2581
+2025-07-08 06:08:12,163 [WARNING] django.request: Not Found: /ucs_agenda/_next/image
+2025-07-08 06:08:12,165 [WARNING] django.request: Not Found: /ucs_agenda/_next/image
+2025-07-08 06:08:12,167 [WARNING] django.request: Not Found: /ucs_agenda/_next/image
+2025-07-08 06:08:12,169 [WARNING] django.request: Not Found: /ucs_agenda/_next/image
+2025-07-08 06:08:12,171 [WARNING] django.request: Not Found: /ucs_agenda/_next/image
+2025-07-08 06:08:12,171 [WARNING] django.server: "GET /static/FucsSimplificado.jpg HTTP/1.1" 404 1874
+2025-07-08 06:08:12,171 [WARNING] django.server: "GET /ucs_agenda/_next/image?url=%2Fucs_agenda%2F_next%2Fstatic%2Fmedia%2FCetec.8f89e591.png&w=640&q=75 HTTP/1.1" 404 2572
+2025-07-08 06:08:12,171 [WARNING] django.server: "GET /ucs_agenda/_next/image?url=%2Fucs_agenda%2F_next%2Fstatic%2Fmedia%2FFucsSimplificado.ceea7a3b.png&w=640&q=75 HTTP/1.1" 404 2583
+2025-07-08 06:08:12,172 [WARNING] django.server: "GET /ucs_agenda/_next/image?url=%2Fucs_agenda%2F_next%2Fstatic%2Fmedia%2FUcsFm.01a6a258.png&w=384&q=75 HTTP/1.1" 404 2572
+2025-07-08 06:08:12,172 [WARNING] django.server: "GET /ucs_agenda/_next/image?url=%2Fucs_agenda%2F_next%2Fstatic%2Fmedia%2FHg.56b2708b.png&w=384&q=75 HTTP/1.1" 404 2569
+2025-07-08 06:08:12,172 [WARNING] django.server: "GET /ucs_agenda/_next/image?url=%2Fucs_agenda%2F_next%2Fstatic%2Fmedia%2FLogoUcsAgenda.efc3eb02.png&w=2048&q=75 HTTP/1.1" 404 2581
+2025-07-08 06:08:12,466 [WARNING] django.request: Not Found: /ucs_agenda/_next/image
+2025-07-08 06:08:12,468 [WARNING] django.request: Not Found: /ucs_agenda/_next/image
+2025-07-08 06:08:12,471 [WARNING] django.request: Not Found: /ucs_agenda/_next/image
+2025-07-08 06:08:12,473 [WARNING] django.request: Not Found: /ucs_agenda/_next/image
+2025-07-08 06:08:12,478 [WARNING] django.request: Not Found: /ucs_agenda/_next/image
+2025-07-08 06:08:12,478 [WARNING] django.server: "GET /static/FucsSimplificado.jpg HTTP/1.1" 404 1874
+2025-07-08 06:08:12,478 [WARNING] django.server: "GET /ucs_agenda/_next/image?url=%2Fucs_agenda%2F_next%2Fstatic%2Fmedia%2FCetec.8f89e591.png&w=640&q=75 HTTP/1.1" 404 2572
+2025-07-08 06:08:12,478 [WARNING] django.server: "GET /ucs_agenda/_next/image?url=%2Fucs_agenda%2F_next%2Fstatic%2Fmedia%2FUcsFm.01a6a258.png&w=384&q=75 HTTP/1.1" 404 2572
+2025-07-08 06:08:12,479 [WARNING] django.server: "GET /ucs_agenda/_next/image?url=%2Fucs_agenda%2F_next%2Fstatic%2Fmedia%2FFucsSimplificado.ceea7a3b.png&w=640&q=75 HTTP/1.1" 404 2583
+2025-07-08 06:08:12,479 [WARNING] django.server: "GET /ucs_agenda/_next/image?url=%2Fucs_agenda%2F_next%2Fstatic%2Fmedia%2FHg.56b2708b.png&w=384&q=75 HTTP/1.1" 404 2569
+2025-07-08 06:08:12,479 [WARNING] django.server: "GET /ucs_agenda/_next/image?url=%2Fucs_agenda%2F_next%2Fstatic%2Fmedia%2FLogoUcsAgenda.efc3eb02.png&w=2048&q=75 HTTP/1.1" 404 2581
+2025-07-08 06:08:24,196 [WARNING] django.request: Not Found: /favicon.ico
+2025-07-08 06:08:24,196 [WARNING] django.server: "GET /favicon.ico HTTP/1.1" 404 2456
+2025-07-08 06:08:24,201 [WARNING] django.request: Not Found: /ucs_agenda/_next/image
+2025-07-08 06:08:24,203 [WARNING] django.request: Not Found: /ucs_agenda/_next/image
+2025-07-08 06:08:24,204 [WARNING] django.server: "GET /ucs_agenda/_next/image?url=%2Fucs_agenda%2F_next%2Fstatic%2Fmedia%2FUcsFm.01a6a258.png&w=384&q=75 HTTP/1.1" 404 2572
+2025-07-08 06:08:24,207 [WARNING] django.server: "GET /ucs_agenda/_next/image?url=%2Fucs_agenda%2F_next%2Fstatic%2Fmedia%2FFucsSimplificado.ceea7a3b.png&w=640&q=75 HTTP/1.1" 404 2583
+2025-07-08 06:08:24,209 [WARNING] django.request: Not Found: /ucs_agenda/_next/image
+2025-07-08 06:08:24,213 [WARNING] django.request: Not Found: /ucs_agenda/_next/image
+2025-07-08 06:08:24,213 [WARNING] django.server: "GET /ucs_agenda/_next/image?url=%2Fucs_agenda%2F_next%2Fstatic%2Fmedia%2FCetec.8f89e591.png&w=640&q=75 HTTP/1.1" 404 2572
+2025-07-08 06:08:24,213 [WARNING] django.server: "GET /static/FucsSimplificado.png HTTP/1.1" 404 1874
+2025-07-08 06:08:24,216 [WARNING] django.request: Not Found: /ucs_agenda/_next/image
+2025-07-08 06:08:24,216 [WARNING] django.server: "GET /ucs_agenda/_next/image?url=%2Fucs_agenda%2F_next%2Fstatic%2Fmedia%2FHg.56b2708b.png&w=384&q=75 HTTP/1.1" 404 2569
+2025-07-08 06:08:24,216 [WARNING] django.server: "GET /ucs_agenda/_next/image?url=%2Fucs_agenda%2F_next%2Fstatic%2Fmedia%2FLogoUcsAgenda.efc3eb02.png&w=2048&q=75 HTTP/1.1" 404 2581
+2025-07-08 06:08:24,821 [WARNING] django.request: Not Found: /favicon.ico
+2025-07-08 06:08:24,823 [WARNING] django.server: "GET /favicon.ico HTTP/1.1" 404 2456
+2025-07-08 06:08:24,826 [WARNING] django.request: Not Found: /ucs_agenda/_next/image
+2025-07-08 06:08:24,832 [WARNING] django.request: Not Found: /ucs_agenda/_next/image
+2025-07-08 06:08:24,833 [WARNING] django.server: "GET /static/FucsSimplificado.png HTTP/1.1" 404 1874
+2025-07-08 06:08:24,833 [WARNING] django.server: "GET /ucs_agenda/_next/image?url=%2Fucs_agenda%2F_next%2Fstatic%2Fmedia%2FFucsSimplificado.ceea7a3b.png&w=640&q=75 HTTP/1.1" 404 2583
+2025-07-08 06:08:24,835 [WARNING] django.request: Not Found: /ucs_agenda/_next/image
+2025-07-08 06:08:24,836 [WARNING] django.server: "GET /ucs_agenda/_next/image?url=%2Fucs_agenda%2F_next%2Fstatic%2Fmedia%2FLogoUcsAgenda.efc3eb02.png&w=2048&q=75 HTTP/1.1" 404 2581
+2025-07-08 06:08:24,838 [WARNING] django.request: Not Found: /ucs_agenda/_next/image
+2025-07-08 06:08:24,840 [WARNING] django.request: Not Found: /ucs_agenda/_next/image
+2025-07-08 06:08:24,840 [WARNING] django.server: "GET /ucs_agenda/_next/image?url=%2Fucs_agenda%2F_next%2Fstatic%2Fmedia%2FCetec.8f89e591.png&w=640&q=75 HTTP/1.1" 404 2572
+2025-07-08 06:08:24,841 [WARNING] django.server: "GET /ucs_agenda/_next/image?url=%2Fucs_agenda%2F_next%2Fstatic%2Fmedia%2FHg.56b2708b.png&w=384&q=75 HTTP/1.1" 404 2569
+2025-07-08 06:08:24,841 [WARNING] django.server: "GET /ucs_agenda/_next/image?url=%2Fucs_agenda%2F_next%2Fstatic%2Fmedia%2FUcsFm.01a6a258.png&w=384&q=75 HTTP/1.1" 404 2572
+2025-07-08 06:08:25,225 [WARNING] django.request: Not Found: /favicon.ico
+2025-07-08 06:08:25,228 [WARNING] django.request: Not Found: /ucs_agenda/_next/image
+2025-07-08 06:08:25,230 [WARNING] django.server: "GET /favicon.ico HTTP/1.1" 404 2456
+2025-07-08 06:08:25,231 [WARNING] django.server: "GET /ucs_agenda/_next/image?url=%2Fucs_agenda%2F_next%2Fstatic%2Fmedia%2FFucsSimplificado.ceea7a3b.png&w=640&q=75 HTTP/1.1" 404 2583
+2025-07-08 06:08:25,236 [WARNING] django.request: Not Found: /ucs_agenda/_next/image
+2025-07-08 06:08:25,239 [WARNING] django.request: Not Found: /ucs_agenda/_next/image
+2025-07-08 06:08:25,239 [WARNING] django.server: "GET /static/FucsSimplificado.png HTTP/1.1" 404 1874
+2025-07-08 06:08:25,241 [WARNING] django.request: Not Found: /ucs_agenda/_next/image
+2025-07-08 06:08:25,243 [WARNING] django.request: Not Found: /ucs_agenda/_next/image
+2025-07-08 06:08:25,243 [WARNING] django.server: "GET /ucs_agenda/_next/image?url=%2Fucs_agenda%2F_next%2Fstatic%2Fmedia%2FLogoUcsAgenda.efc3eb02.png&w=2048&q=75 HTTP/1.1" 404 2581
+2025-07-08 06:08:25,244 [WARNING] django.server: "GET /ucs_agenda/_next/image?url=%2Fucs_agenda%2F_next%2Fstatic%2Fmedia%2FUcsFm.01a6a258.png&w=384&q=75 HTTP/1.1" 404 2572
+2025-07-08 06:08:25,244 [WARNING] django.server: "GET /ucs_agenda/_next/image?url=%2Fucs_agenda%2F_next%2Fstatic%2Fmedia%2FCetec.8f89e591.png&w=640&q=75 HTTP/1.1" 404 2572
+2025-07-08 06:08:25,244 [WARNING] django.server: "GET /ucs_agenda/_next/image?url=%2Fucs_agenda%2F_next%2Fstatic%2Fmedia%2FHg.56b2708b.png&w=384&q=75 HTTP/1.1" 404 2569
+2025-07-08 06:08:25,852 [WARNING] django.request: Not Found: /ucs_agenda/_next/image
+2025-07-08 06:08:25,854 [WARNING] django.request: Not Found: /ucs_agenda/_next/image
+2025-07-08 06:08:25,858 [WARNING] django.request: Not Found: /ucs_agenda/_next/image
+2025-07-08 06:08:25,860 [WARNING] django.request: Not Found: /ucs_agenda/_next/image
+2025-07-08 06:08:25,860 [WARNING] django.server: "GET /ucs_agenda/_next/image?url=%2Fucs_agenda%2F_next%2Fstatic%2Fmedia%2FFucsSimplificado.ceea7a3b.png&w=640&q=75 HTTP/1.1" 404 2583
+2025-07-08 06:08:25,863 [WARNING] django.request: Not Found: /ucs_agenda/_next/image
+2025-07-08 06:08:25,863 [WARNING] django.server: "GET /ucs_agenda/_next/image?url=%2Fucs_agenda%2F_next%2Fstatic%2Fmedia%2FHg.56b2708b.png&w=384&q=75 HTTP/1.1" 404 2569
+2025-07-08 06:08:25,863 [WARNING] django.server: "GET /static/FucsSimplificado.png HTTP/1.1" 404 1874
+2025-07-08 06:08:25,863 [WARNING] django.server: "GET /ucs_agenda/_next/image?url=%2Fucs_agenda%2F_next%2Fstatic%2Fmedia%2FUcsFm.01a6a258.png&w=384&q=75 HTTP/1.1" 404 2572
+2025-07-08 06:08:25,864 [WARNING] django.server: "GET /ucs_agenda/_next/image?url=%2Fucs_agenda%2F_next%2Fstatic%2Fmedia%2FLogoUcsAgenda.efc3eb02.png&w=2048&q=75 HTTP/1.1" 404 2581
+2025-07-08 06:08:25,864 [WARNING] django.server: "GET /ucs_agenda/_next/image?url=%2Fucs_agenda%2F_next%2Fstatic%2Fmedia%2FCetec.8f89e591.png&w=640&q=75 HTTP/1.1" 404 2572
+2025-07-08 06:08:26,167 [WARNING] django.request: Not Found: /ucs_agenda/_next/image
+2025-07-08 06:08:26,171 [WARNING] django.request: Not Found: /ucs_agenda/_next/image
+2025-07-08 06:08:26,171 [WARNING] django.server: "GET /ucs_agenda/_next/image?url=%2Fucs_agenda%2F_next%2Fstatic%2Fmedia%2FHg.56b2708b.png&w=384&q=75 HTTP/1.1" 404 2569
+2025-07-08 06:08:26,173 [WARNING] django.request: Not Found: /ucs_agenda/_next/image
+2025-07-08 06:08:26,175 [WARNING] django.request: Not Found: /ucs_agenda/_next/image
+2025-07-08 06:08:26,177 [WARNING] django.request: Not Found: /ucs_agenda/_next/image
+2025-07-08 06:08:26,180 [WARNING] django.server: "GET /static/FucsSimplificado.png HTTP/1.1" 404 1874
+2025-07-08 06:08:26,180 [WARNING] django.server: "GET /ucs_agenda/_next/image?url=%2Fucs_agenda%2F_next%2Fstatic%2Fmedia%2FFucsSimplificado.ceea7a3b.png&w=640&q=75 HTTP/1.1" 404 2583
+2025-07-08 06:08:26,180 [WARNING] django.server: "GET /ucs_agenda/_next/image?url=%2Fucs_agenda%2F_next%2Fstatic%2Fmedia%2FCetec.8f89e591.png&w=640&q=75 HTTP/1.1" 404 2572
+2025-07-08 06:08:26,180 [WARNING] django.server: "GET /ucs_agenda/_next/image?url=%2Fucs_agenda%2F_next%2Fstatic%2Fmedia%2FUcsFm.01a6a258.png&w=384&q=75 HTTP/1.1" 404 2572
+2025-07-08 06:08:26,181 [WARNING] django.server: "GET /ucs_agenda/_next/image?url=%2Fucs_agenda%2F_next%2Fstatic%2Fmedia%2FLogoUcsAgenda.efc3eb02.png&w=2048&q=75 HTTP/1.1" 404 2581
+2025-07-08 06:08:26,340 [WARNING] django.request: Not Found: /ucs_agenda/_next/image
+2025-07-08 06:08:26,343 [WARNING] django.request: Not Found: /ucs_agenda/_next/image
+2025-07-08 06:08:26,347 [WARNING] django.request: Not Found: /ucs_agenda/_next/image
+2025-07-08 06:08:26,350 [WARNING] django.request: Not Found: /ucs_agenda/_next/image
+2025-07-08 06:08:26,351 [WARNING] django.request: Not Found: /ucs_agenda/_next/image
+2025-07-08 06:08:26,352 [WARNING] django.server: "GET /ucs_agenda/_next/image?url=%2Fucs_agenda%2F_next%2Fstatic%2Fmedia%2FHg.56b2708b.png&w=384&q=75 HTTP/1.1" 404 2569
+2025-07-08 06:08:26,352 [WARNING] django.server: "GET /static/FucsSimplificado.png HTTP/1.1" 404 1874
+2025-07-08 06:08:26,352 [WARNING] django.server: "GET /ucs_agenda/_next/image?url=%2Fucs_agenda%2F_next%2Fstatic%2Fmedia%2FFucsSimplificado.ceea7a3b.png&w=640&q=75 HTTP/1.1" 404 2583
+2025-07-08 06:08:26,352 [WARNING] django.server: "GET /ucs_agenda/_next/image?url=%2Fucs_agenda%2F_next%2Fstatic%2Fmedia%2FUcsFm.01a6a258.png&w=384&q=75 HTTP/1.1" 404 2572
+2025-07-08 06:08:26,352 [WARNING] django.server: "GET /ucs_agenda/_next/image?url=%2Fucs_agenda%2F_next%2Fstatic%2Fmedia%2FCetec.8f89e591.png&w=640&q=75 HTTP/1.1" 404 2572
+2025-07-08 06:08:26,353 [WARNING] django.server: "GET /ucs_agenda/_next/image?url=%2Fucs_agenda%2F_next%2Fstatic%2Fmedia%2FLogoUcsAgenda.efc3eb02.png&w=2048&q=75 HTTP/1.1" 404 2581
+2025-07-08 06:09:28,113 [WARNING] django.request: Not Found: /favicon.ico
+2025-07-08 06:09:28,115 [WARNING] django.server: "GET /favicon.ico HTTP/1.1" 404 2456
+2025-07-08 06:09:28,118 [WARNING] django.request: Not Found: /ucs_agenda/_next/image
+2025-07-08 06:09:28,120 [WARNING] django.request: Not Found: /ucs_agenda/_next/image
+2025-07-08 06:09:28,123 [WARNING] django.server: "GET /static/FucsSimplificado.png HTTP/1.1" 404 1874
+2025-07-08 06:09:28,123 [WARNING] django.server: "GET /ucs_agenda/_next/image?url=%2Fucs_agenda%2F_next%2Fstatic%2Fmedia%2FFucsSimplificado.ceea7a3b.png&w=640&q=75 HTTP/1.1" 404 2583
+2025-07-08 06:09:28,123 [WARNING] django.server: "GET /ucs_agenda/_next/image?url=%2Fucs_agenda%2F_next%2Fstatic%2Fmedia%2FLogoUcsAgenda.efc3eb02.png&w=2048&q=75 HTTP/1.1" 404 2581
+2025-07-08 06:09:29,113 [WARNING] django.request: Not Found: /favicon.ico
+2025-07-08 06:09:29,113 [WARNING] django.server: "GET /favicon.ico HTTP/1.1" 404 2456
+2025-07-08 06:09:29,121 [WARNING] django.request: Not Found: /ucs_agenda/_next/image
+2025-07-08 06:09:29,123 [WARNING] django.request: Not Found: /ucs_agenda/_next/image
+2025-07-08 06:09:29,123 [WARNING] django.server: "GET /ucs_agenda/_next/image?url=%2Fucs_agenda%2F_next%2Fstatic%2Fmedia%2FFucsSimplificado.ceea7a3b.png&w=640&q=75 HTTP/1.1" 404 2583
+2025-07-08 06:09:29,126 [WARNING] django.server: "GET /ucs_agenda/_next/image?url=%2Fucs_agenda%2F_next%2Fstatic%2Fmedia%2FLogoUcsAgenda.efc3eb02.png&w=2048&q=75 HTTP/1.1" 404 2581
+2025-07-08 06:09:29,126 [WARNING] django.server: "GET /static/FucsSimplificado.png HTTP/1.1" 404 1874
+2025-07-08 06:09:29,507 [WARNING] django.request: Not Found: /favicon.ico
+2025-07-08 06:09:29,511 [WARNING] django.request: Not Found: /ucs_agenda/_next/image
+2025-07-08 06:09:29,514 [WARNING] django.request: Not Found: /ucs_agenda/_next/image
+2025-07-08 06:09:29,514 [WARNING] django.server: "GET /favicon.ico HTTP/1.1" 404 2456
+2025-07-08 06:09:29,516 [WARNING] django.server: "GET /ucs_agenda/_next/image?url=%2Fucs_agenda%2F_next%2Fstatic%2Fmedia%2FFucsSimplificado.ceea7a3b.png&w=640&q=75 HTTP/1.1" 404 2583
+2025-07-08 06:09:29,517 [WARNING] django.server: "GET /static/FucsSimplificado.png HTTP/1.1" 404 1874
+2025-07-08 06:09:29,517 [WARNING] django.server: "GET /ucs_agenda/_next/image?url=%2Fucs_agenda%2F_next%2Fstatic%2Fmedia%2FLogoUcsAgenda.efc3eb02.png&w=2048&q=75 HTTP/1.1" 404 2581
+2025-07-08 06:09:31,619 [WARNING] django.request: Not Found: /favicon.ico
+2025-07-08 06:09:31,620 [WARNING] django.server: "GET /favicon.ico HTTP/1.1" 404 2456
+2025-07-08 06:09:31,625 [WARNING] django.request: Not Found: /ucs_agenda/_next/image
+2025-07-08 06:09:31,629 [WARNING] django.request: Not Found: /ucs_agenda/_next/image
+2025-07-08 06:09:31,629 [WARNING] django.server: "GET /ucs_agenda/_next/image?url=%2Fucs_agenda%2F_next%2Fstatic%2Fmedia%2FFucsSimplificado.ceea7a3b.png&w=640&q=75 HTTP/1.1" 404 2583
+2025-07-08 06:09:31,631 [WARNING] django.server: "GET /static/FucsSimplificado.png HTTP/1.1" 404 1874
+2025-07-08 06:09:31,631 [WARNING] django.server: "GET /ucs_agenda/_next/image?url=%2Fucs_agenda%2F_next%2Fstatic%2Fmedia%2FLogoUcsAgenda.efc3eb02.png&w=2048&q=75 HTTP/1.1" 404 2581
+2025-07-08 06:09:47,362 [WARNING] django.request: Not Found: /favicon.ico
+2025-07-08 06:09:47,363 [WARNING] django.server: "GET /favicon.ico HTTP/1.1" 404 2456
+2025-07-08 06:09:47,369 [WARNING] django.request: Not Found: /ucs_agenda/_next/image
+2025-07-08 06:09:47,370 [WARNING] django.server: "GET /ucs_agenda/_next/image?url=%2Fucs_agenda%2F_next%2Fstatic%2Fmedia%2FFucsSimplificado.ceea7a3b.png&w=640&q=75 HTTP/1.1" 404 2583
+2025-07-08 06:09:47,375 [WARNING] django.request: Not Found: /ucs_agenda/_next/image
+2025-07-08 06:09:47,376 [WARNING] django.server: "GET /static/FucsSimplificado.png HTTP/1.1" 404 1874
+2025-07-08 06:09:47,376 [WARNING] django.server: "GET /ucs_agenda/_next/image?url=%2Fucs_agenda%2F_next%2Fstatic%2Fmedia%2FLogoUcsAgenda.efc3eb02.png&w=2048&q=75 HTTP/1.1" 404 2581
+2025-07-08 06:09:47,993 [WARNING] django.request: Not Found: /favicon.ico
+2025-07-08 06:09:47,994 [WARNING] django.server: "GET /favicon.ico HTTP/1.1" 404 2456
+2025-07-08 06:09:48,003 [WARNING] django.request: Not Found: /ucs_agenda/_next/image
+2025-07-08 06:09:48,004 [WARNING] django.server: "GET /ucs_agenda/_next/image?url=%2Fucs_agenda%2F_next%2Fstatic%2Fmedia%2FFucsSimplificado.ceea7a3b.png&w=640&q=75 HTTP/1.1" 404 2583
+2025-07-08 06:09:48,010 [WARNING] django.request: Not Found: /ucs_agenda/_next/image
+2025-07-08 06:09:48,010 [WARNING] django.server: "GET /static/FucsSimplificado.png HTTP/1.1" 404 1874
+2025-07-08 06:09:48,011 [WARNING] django.server: "GET /ucs_agenda/_next/image?url=%2Fucs_agenda%2F_next%2Fstatic%2Fmedia%2FLogoUcsAgenda.efc3eb02.png&w=2048&q=75 HTTP/1.1" 404 2581
+2025-07-08 06:09:48,377 [WARNING] django.request: Not Found: /favicon.ico
+2025-07-08 06:09:48,377 [WARNING] django.server: "GET /favicon.ico HTTP/1.1" 404 2456
+2025-07-08 06:09:48,383 [WARNING] django.request: Not Found: /ucs_agenda/_next/image
+2025-07-08 06:09:48,387 [WARNING] django.request: Not Found: /ucs_agenda/_next/image
+2025-07-08 06:09:48,387 [WARNING] django.server: "GET /ucs_agenda/_next/image?url=%2Fucs_agenda%2F_next%2Fstatic%2Fmedia%2FFucsSimplificado.ceea7a3b.png&w=640&q=75 HTTP/1.1" 404 2583
+2025-07-08 06:09:48,389 [WARNING] django.server: "GET /static/FucsSimplificado.png HTTP/1.1" 404 1874
+2025-07-08 06:09:48,389 [WARNING] django.server: "GET /ucs_agenda/_next/image?url=%2Fucs_agenda%2F_next%2Fstatic%2Fmedia%2FLogoUcsAgenda.efc3eb02.png&w=2048&q=75 HTTP/1.1" 404 2581
+2025-07-08 06:09:48,708 [WARNING] django.request: Not Found: /favicon.ico
+2025-07-08 06:09:48,709 [WARNING] django.server: "GET /favicon.ico HTTP/1.1" 404 2456
+2025-07-08 06:09:48,714 [WARNING] django.request: Not Found: /ucs_agenda/_next/image
+2025-07-08 06:09:48,716 [WARNING] django.request: Not Found: /ucs_agenda/_next/image
+2025-07-08 06:09:48,717 [WARNING] django.server: "GET /ucs_agenda/_next/image?url=%2Fucs_agenda%2F_next%2Fstatic%2Fmedia%2FFucsSimplificado.ceea7a3b.png&w=640&q=75 HTTP/1.1" 404 2583
+2025-07-08 06:09:48,720 [WARNING] django.server: "GET /static/FucsSimplificado.png HTTP/1.1" 404 1874
+2025-07-08 06:09:48,720 [WARNING] django.server: "GET /ucs_agenda/_next/image?url=%2Fucs_agenda%2F_next%2Fstatic%2Fmedia%2FLogoUcsAgenda.efc3eb02.png&w=2048&q=75 HTTP/1.1" 404 2581
+2025-07-08 06:09:48,921 [WARNING] django.request: Not Found: /favicon.ico
+2025-07-08 06:09:48,922 [WARNING] django.server: "GET /favicon.ico HTTP/1.1" 404 2456
+2025-07-08 06:09:48,932 [WARNING] django.request: Not Found: /ucs_agenda/_next/image
+2025-07-08 06:09:48,934 [WARNING] django.server: "GET /ucs_agenda/_next/image?url=%2Fucs_agenda%2F_next%2Fstatic%2Fmedia%2FFucsSimplificado.ceea7a3b.png&w=640&q=75 HTTP/1.1" 404 2583
+2025-07-08 06:09:48,936 [WARNING] django.request: Not Found: /ucs_agenda/_next/image
+2025-07-08 06:09:48,938 [WARNING] django.server: "GET /static/FucsSimplificado.png HTTP/1.1" 404 1874
+2025-07-08 06:09:48,938 [WARNING] django.server: "GET /ucs_agenda/_next/image?url=%2Fucs_agenda%2F_next%2Fstatic%2Fmedia%2FLogoUcsAgenda.efc3eb02.png&w=2048&q=75 HTTP/1.1" 404 2581
+2025-07-08 06:11:13,344 [WARNING] django.request: Not Found: /ucs_agenda
+2025-07-08 06:11:13,345 [WARNING] django.server: "GET /ucs_agenda HTTP/1.1" 404 2453
+2025-07-08 06:11:13,681 [WARNING] django.request: Not Found: /favicon.ico
+2025-07-08 06:11:13,683 [WARNING] django.server: "GET /favicon.ico HTTP/1.1" 404 2456
+2025-07-08 06:11:13,686 [WARNING] django.request: Not Found: /ucs_agenda/_next/image
+2025-07-08 06:11:13,694 [WARNING] django.request: Not Found: /ucs_agenda/_next/image
+2025-07-08 06:11:13,694 [WARNING] django.server: "GET /ucs_agenda/_next/image?url=%2Fucs_agenda%2F_next%2Fstatic%2Fmedia%2FFucsSimplificado.ceea7a3b.png&w=640&q=75 HTTP/1.1" 404 2583
+2025-07-08 06:11:13,694 [WARNING] django.server: "GET /static/imgs/FucsSimplificado.png HTTP/1.1" 404 1889
+2025-07-08 06:11:13,695 [WARNING] django.server: "GET /static/FucsSimplificado.png HTTP/1.1" 404 1874
+2025-07-08 06:11:13,695 [WARNING] django.server: "GET /ucs_agenda/_next/image?url=%2Fucs_agenda%2F_next%2Fstatic%2Fmedia%2FLogoUcsAgenda.efc3eb02.png&w=2048&q=75 HTTP/1.1" 404 2581
+2025-07-08 06:11:14,707 [WARNING] django.request: Not Found: /favicon.ico
+2025-07-08 06:11:14,707 [WARNING] django.server: "GET /favicon.ico HTTP/1.1" 404 2456
+2025-07-08 06:11:14,712 [WARNING] django.request: Not Found: /ucs_agenda/_next/image
+2025-07-08 06:11:14,715 [WARNING] django.request: Not Found: /ucs_agenda/_next/image
+2025-07-08 06:11:14,717 [WARNING] django.server: "GET /ucs_agenda/_next/image?url=%2Fucs_agenda%2F_next%2Fstatic%2Fmedia%2FFucsSimplificado.ceea7a3b.png&w=640&q=75 HTTP/1.1" 404 2583
+2025-07-08 06:11:14,722 [WARNING] django.server: "GET /ucs_agenda/_next/image?url=%2Fucs_agenda%2F_next%2Fstatic%2Fmedia%2FLogoUcsAgenda.efc3eb02.png&w=2048&q=75 HTTP/1.1" 404 2581
+2025-07-08 06:11:14,722 [WARNING] django.server: "GET /static/FucsSimplificado.png HTTP/1.1" 404 1874
+2025-07-08 06:11:14,722 [WARNING] django.server: "GET /static/imgs/FucsSimplificado.png HTTP/1.1" 404 1889
+2025-07-08 06:11:15,154 [WARNING] django.request: Not Found: /favicon.ico
+2025-07-08 06:11:15,155 [WARNING] django.server: "GET /favicon.ico HTTP/1.1" 404 2456
+2025-07-08 06:11:15,162 [WARNING] django.request: Not Found: /ucs_agenda/_next/image
+2025-07-08 06:11:15,164 [WARNING] django.server: "GET /ucs_agenda/_next/image?url=%2Fucs_agenda%2F_next%2Fstatic%2Fmedia%2FFucsSimplificado.ceea7a3b.png&w=640&q=75 HTTP/1.1" 404 2583
+2025-07-08 06:11:15,170 [WARNING] django.request: Not Found: /ucs_agenda/_next/image
+2025-07-08 06:11:15,171 [WARNING] django.server: "GET /static/imgs/FucsSimplificado.png HTTP/1.1" 404 1889
+2025-07-08 06:11:15,171 [WARNING] django.server: "GET /static/FucsSimplificado.png HTTP/1.1" 404 1874
+2025-07-08 06:11:15,171 [WARNING] django.server: "GET /ucs_agenda/_next/image?url=%2Fucs_agenda%2F_next%2Fstatic%2Fmedia%2FLogoUcsAgenda.efc3eb02.png&w=2048&q=75 HTTP/1.1" 404 2581
+2025-07-08 06:12:16,171 [WARNING] django.request: Not Found: /ucs_agenda
+2025-07-08 06:12:16,171 [WARNING] django.server: "GET /ucs_agenda HTTP/1.1" 404 2453
+2025-07-08 06:12:16,394 [WARNING] django.request: Not Found: /favicon.ico
+2025-07-08 06:12:16,394 [WARNING] django.server: "GET /favicon.ico HTTP/1.1" 404 2456
+2025-07-08 06:12:16,399 [WARNING] django.request: Not Found: /ucs_agenda/_next/image
+2025-07-08 06:12:16,401 [WARNING] django.request: Not Found: /ucs_agenda/_next/image
+2025-07-08 06:12:16,403 [WARNING] django.server: "GET /ucs_agenda/_next/image?url=%2Fucs_agenda%2F_next%2Fstatic%2Fmedia%2FFucsSimplificado.ceea7a3b.png&w=640&q=75 HTTP/1.1" 404 2583
+2025-07-08 06:12:16,405 [WARNING] django.server: "GET /ucs_agenda/_next/image?url=%2Fucs_agenda%2F_next%2Fstatic%2Fmedia%2FLogoUcsAgenda.efc3eb02.png&w=2048&q=75 HTTP/1.1" 404 2581
+2025-07-08 06:12:16,406 [WARNING] django.server: "GET /static/FucsSimplificado.png HTTP/1.1" 404 1874
+2025-07-08 06:12:17,833 [WARNING] django.request: Not Found: /favicon.ico
+2025-07-08 06:12:17,834 [WARNING] django.server: "GET /favicon.ico HTTP/1.1" 404 2456
+2025-07-08 06:12:17,841 [WARNING] django.request: Not Found: /ucs_agenda/_next/image
+2025-07-08 06:12:17,842 [WARNING] django.server: "GET /ucs_agenda/_next/image?url=%2Fucs_agenda%2F_next%2Fstatic%2Fmedia%2FFucsSimplificado.ceea7a3b.png&w=640&q=75 HTTP/1.1" 404 2583
+2025-07-08 06:12:17,844 [WARNING] django.request: Not Found: /ucs_agenda/_next/image
+2025-07-08 06:12:17,845 [WARNING] django.server: "GET /ucs_agenda/_next/image?url=%2Fucs_agenda%2F_next%2Fstatic%2Fmedia%2FLogoUcsAgenda.efc3eb02.png&w=2048&q=75 HTTP/1.1" 404 2581
+2025-07-08 06:12:17,848 [WARNING] django.server: "GET /static/FucsSimplificado.png HTTP/1.1" 404 1874
+2025-07-08 06:12:18,444 [WARNING] django.request: Not Found: /favicon.ico
+2025-07-08 06:12:18,445 [WARNING] django.server: "GET /favicon.ico HTTP/1.1" 404 2456
+2025-07-08 06:12:18,454 [WARNING] django.request: Not Found: /ucs_agenda/_next/image
+2025-07-08 06:12:18,457 [WARNING] django.request: Not Found: /ucs_agenda/_next/image
+2025-07-08 06:12:18,457 [WARNING] django.server: "GET /ucs_agenda/_next/image?url=%2Fucs_agenda%2F_next%2Fstatic%2Fmedia%2FFucsSimplificado.ceea7a3b.png&w=640&q=75 HTTP/1.1" 404 2583
+2025-07-08 06:12:18,460 [WARNING] django.server: "GET /ucs_agenda/_next/image?url=%2Fucs_agenda%2F_next%2Fstatic%2Fmedia%2FLogoUcsAgenda.efc3eb02.png&w=2048&q=75 HTTP/1.1" 404 2581
+2025-07-08 06:12:18,460 [WARNING] django.server: "GET /static/FucsSimplificado.png HTTP/1.1" 404 1874
+2025-07-08 06:12:54,373 [WARNING] django.request: Not Found: /favicon.ico
+2025-07-08 06:12:54,374 [WARNING] django.server: "GET /favicon.ico HTTP/1.1" 404 2456
+2025-07-08 06:12:54,378 [WARNING] django.request: Not Found: /ucs_agenda/_next/image
+2025-07-08 06:12:54,379 [WARNING] django.server: "GET /ucs_agenda/_next/image?url=%2Fucs_agenda%2F_next%2Fstatic%2Fmedia%2FFucsSimplificado.ceea7a3b.png&w=640&q=75 HTTP/1.1" 404 2583
+2025-07-08 06:12:54,384 [WARNING] django.request: Not Found: /ucs_agenda/_next/image
+2025-07-08 06:12:54,384 [WARNING] django.server: "GET /static/FucsSimplificado.png HTTP/1.1" 404 1874
+2025-07-08 06:12:54,385 [WARNING] django.server: "GET /ucs_agenda/_next/image?url=%2Fucs_agenda%2F_next%2Fstatic%2Fmedia%2FLogoUcsAgenda.efc3eb02.png&w=2048&q=75 HTTP/1.1" 404 2581
+2025-07-08 06:13:02,313 [WARNING] django.request: Not Found: /favicon.ico
+2025-07-08 06:13:02,313 [WARNING] django.server: "GET /favicon.ico HTTP/1.1" 404 2456
+2025-07-08 06:13:02,327 [WARNING] django.request: Not Found: /ucs_agenda/_next/image
+2025-07-08 06:13:02,328 [WARNING] django.server: "GET /ucs_agenda/_next/image?url=%2Fucs_agenda%2F_next%2Fstatic%2Fmedia%2FFucsSimplificado.ceea7a3b.png&w=640&q=75 HTTP/1.1" 404 2583
+2025-07-08 06:13:02,334 [WARNING] django.request: Not Found: /ucs_agenda/_next/image
+2025-07-08 06:13:02,334 [WARNING] django.server: "GET /static/FucsSimplificado.png HTTP/1.1" 404 1874
+2025-07-08 06:13:02,335 [WARNING] django.server: "GET /ucs_agenda/_next/image?url=%2Fucs_agenda%2F_next%2Fstatic%2Fmedia%2FLogoUcsAgenda.efc3eb02.png&w=2048&q=75 HTTP/1.1" 404 2581
+2025-07-08 06:14:27,064 [WARNING] django.server: "GET /static/FucsSimplificado.png HTTP/1.1" 404 1874
+2025-07-08 06:14:27,147 [WARNING] django.server: "GET /static/FucsSimplificado.png HTTP/1.1" 404 1874
+2025-07-08 06:14:27,153 [WARNING] django.request: Not Found: /favicon.ico
+2025-07-08 06:14:27,153 [WARNING] django.server: "GET /favicon.ico HTTP/1.1" 404 2456
+2025-07-08 06:14:27,163 [WARNING] django.request: Not Found: /ucs_agenda/_next/image
+2025-07-08 06:14:27,163 [WARNING] django.server: "GET /ucs_agenda/_next/image?url=%2Fucs_agenda%2F_next%2Fstatic%2Fmedia%2FLogoUcsAgenda.efc3eb02.png&w=2048&q=75 HTTP/1.1" 404 2581
+2025-07-08 06:14:37,438 [WARNING] django.server: "GET /static/FucsSimplificado.png HTTP/1.1" 404 1874
+2025-07-08 06:14:37,449 [WARNING] django.server: "GET /static/FucsSimplificado.png HTTP/1.1" 404 1874
+2025-07-08 06:14:38,036 [WARNING] django.server: "GET /static/FucsSimplificado.png HTTP/1.1" 404 1874
+2025-07-08 06:14:38,047 [WARNING] django.server: "GET /static/FucsSimplificado.png HTTP/1.1" 404 1874
+2025-07-08 06:16:50,798 [WARNING] django.server: "GET /static/css/estilo.css HTTP/1.1" 404 1856
+2025-07-08 06:16:50,895 [WARNING] django.server: "GET /static/css/estilo.css HTTP/1.1" 404 1856
+2025-07-08 06:16:50,901 [WARNING] django.request: Not Found: /favicon.ico
+2025-07-08 06:16:50,901 [WARNING] django.server: "GET /favicon.ico HTTP/1.1" 404 2456
+2025-07-08 06:16:51,519 [WARNING] django.server: "GET /static/css/estilo.css HTTP/1.1" 404 1856
+2025-07-08 06:16:51,611 [WARNING] django.server: "GET /static/css/estilo.css HTTP/1.1" 404 1856
+2025-07-08 06:16:51,616 [WARNING] django.request: Not Found: /favicon.ico
+2025-07-08 06:16:51,616 [WARNING] django.server: "GET /favicon.ico HTTP/1.1" 404 2456
+2025-07-08 06:16:51,926 [WARNING] django.server: "GET /static/css/estilo.css HTTP/1.1" 404 1856
+2025-07-08 06:16:52,020 [WARNING] django.server: "GET /static/css/estilo.css HTTP/1.1" 404 1856
+2025-07-08 06:16:52,025 [WARNING] django.request: Not Found: /favicon.ico
+2025-07-08 06:16:52,026 [WARNING] django.server: "GET /favicon.ico HTTP/1.1" 404 2456
+2025-07-08 06:17:00,551 [WARNING] django.request: Not Found: /favicon.ico
+2025-07-08 06:17:00,552 [WARNING] django.server: "GET /favicon.ico HTTP/1.1" 404 2456
+2025-07-08 06:17:01,341 [WARNING] django.request: Not Found: /favicon.ico
+2025-07-08 06:17:01,341 [WARNING] django.server: "GET /favicon.ico HTTP/1.1" 404 2456
+2025-07-08 06:17:16,027 [WARNING] django.request: Not Found: /favicon.ico
+2025-07-08 06:17:16,028 [WARNING] django.server: "GET /favicon.ico HTTP/1.1" 404 2456
+2025-07-08 06:17:17,831 [WARNING] django.request: Not Found: /favicon.ico
+2025-07-08 06:17:17,831 [WARNING] django.server: "GET /favicon.ico HTTP/1.1" 404 2456
+2025-07-08 06:17:18,247 [WARNING] django.request: Not Found: /favicon.ico
+2025-07-08 06:17:18,247 [WARNING] django.server: "GET /favicon.ico HTTP/1.1" 404 2456
+2025-07-08 06:18:19,102 [WARNING] django.request: Not Found: /favicon.ico
+2025-07-08 06:18:19,103 [WARNING] django.server: "GET /favicon.ico HTTP/1.1" 404 2456
+2025-07-08 06:20:31,418 [WARNING] django.request: Not Found: /favicon.ico
+2025-07-08 06:20:31,419 [WARNING] django.server: "GET /favicon.ico HTTP/1.1" 404 2456
+2025-07-08 06:24:51,612 [ERROR] django.request: Internal Server Error: /
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/django/template/base.py", line 510, in parse
+    compile_func = self.tags[command]
+KeyError: 'static'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/base.py", line 220, in _get_response
+    response = response.render()
+  File "/usr/local/lib/python3.10/site-packages/django/template/response.py", line 114, in render
+    self.content = self.rendered_content
+  File "/usr/local/lib/python3.10/site-packages/django/template/response.py", line 90, in rendered_content
+    template = self.resolve_template(self.template_name)
+  File "/usr/local/lib/python3.10/site-packages/django/template/response.py", line 72, in resolve_template
+    return select_template(template, using=self.using)
+  File "/usr/local/lib/python3.10/site-packages/django/template/loader.py", line 42, in select_template
+    return engine.get_template(template_name)
+  File "/usr/local/lib/python3.10/site-packages/django/template/backends/django.py", line 79, in get_template
+    return Template(self.engine.get_template(template_name), self)
+  File "/usr/local/lib/python3.10/site-packages/django/template/engine.py", line 177, in get_template
+    template, origin = self.find_template(template_name)
+  File "/usr/local/lib/python3.10/site-packages/django/template/engine.py", line 159, in find_template
+    template = loader.get_template(name, skip=skip)
+  File "/usr/local/lib/python3.10/site-packages/django/template/loaders/cached.py", line 57, in get_template
+    template = super().get_template(template_name, skip)
+  File "/usr/local/lib/python3.10/site-packages/django/template/loaders/base.py", line 28, in get_template
+    return Template(
+  File "/usr/local/lib/python3.10/site-packages/django/template/base.py", line 154, in __init__
+    self.nodelist = self.compile_nodelist()
+  File "/usr/local/lib/python3.10/site-packages/django/template/base.py", line 196, in compile_nodelist
+    nodelist = parser.parse()
+  File "/usr/local/lib/python3.10/site-packages/django/template/base.py", line 518, in parse
+    raise self.error(token, e)
+  File "/usr/local/lib/python3.10/site-packages/django/template/base.py", line 516, in parse
+    compiled_result = compile_func(self, token)
+  File "/usr/local/lib/python3.10/site-packages/django/template/loader_tags.py", line 299, in do_extends
+    nodelist = parser.parse()
+  File "/usr/local/lib/python3.10/site-packages/django/template/base.py", line 518, in parse
+    raise self.error(token, e)
+  File "/usr/local/lib/python3.10/site-packages/django/template/base.py", line 516, in parse
+    compiled_result = compile_func(self, token)
+  File "/usr/local/lib/python3.10/site-packages/django/template/loader_tags.py", line 234, in do_block
+    nodelist = parser.parse(("endblock",))
+  File "/usr/local/lib/python3.10/site-packages/django/template/base.py", line 512, in parse
+    self.invalid_block_tag(token, command, parse_until)
+  File "/usr/local/lib/python3.10/site-packages/django/template/base.py", line 567, in invalid_block_tag
+    raise self.error(
+django.template.exceptions.TemplateSyntaxError: Invalid block tag on line 6: 'static', expected 'endblock'. Did you forget to register or load this tag?
+2025-07-08 06:24:51,613 [ERROR] django.server: "GET / HTTP/1.1" 500 152895
+2025-07-08 06:24:51,650 [WARNING] django.request: Not Found: /favicon.ico
+2025-07-08 06:24:51,650 [WARNING] django.server: "GET /favicon.ico HTTP/1.1" 404 2456
+2025-07-08 06:24:52,340 [ERROR] django.request: Internal Server Error: /
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/django/template/base.py", line 510, in parse
+    compile_func = self.tags[command]
+KeyError: 'static'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/base.py", line 220, in _get_response
+    response = response.render()
+  File "/usr/local/lib/python3.10/site-packages/django/template/response.py", line 114, in render
+    self.content = self.rendered_content
+  File "/usr/local/lib/python3.10/site-packages/django/template/response.py", line 90, in rendered_content
+    template = self.resolve_template(self.template_name)
+  File "/usr/local/lib/python3.10/site-packages/django/template/response.py", line 72, in resolve_template
+    return select_template(template, using=self.using)
+  File "/usr/local/lib/python3.10/site-packages/django/template/loader.py", line 42, in select_template
+    return engine.get_template(template_name)
+  File "/usr/local/lib/python3.10/site-packages/django/template/backends/django.py", line 79, in get_template
+    return Template(self.engine.get_template(template_name), self)
+  File "/usr/local/lib/python3.10/site-packages/django/template/engine.py", line 177, in get_template
+    template, origin = self.find_template(template_name)
+  File "/usr/local/lib/python3.10/site-packages/django/template/engine.py", line 159, in find_template
+    template = loader.get_template(name, skip=skip)
+  File "/usr/local/lib/python3.10/site-packages/django/template/loaders/cached.py", line 57, in get_template
+    template = super().get_template(template_name, skip)
+  File "/usr/local/lib/python3.10/site-packages/django/template/loaders/base.py", line 28, in get_template
+    return Template(
+  File "/usr/local/lib/python3.10/site-packages/django/template/base.py", line 154, in __init__
+    self.nodelist = self.compile_nodelist()
+  File "/usr/local/lib/python3.10/site-packages/django/template/base.py", line 196, in compile_nodelist
+    nodelist = parser.parse()
+  File "/usr/local/lib/python3.10/site-packages/django/template/base.py", line 518, in parse
+    raise self.error(token, e)
+  File "/usr/local/lib/python3.10/site-packages/django/template/base.py", line 516, in parse
+    compiled_result = compile_func(self, token)
+  File "/usr/local/lib/python3.10/site-packages/django/template/loader_tags.py", line 299, in do_extends
+    nodelist = parser.parse()
+  File "/usr/local/lib/python3.10/site-packages/django/template/base.py", line 518, in parse
+    raise self.error(token, e)
+  File "/usr/local/lib/python3.10/site-packages/django/template/base.py", line 516, in parse
+    compiled_result = compile_func(self, token)
+  File "/usr/local/lib/python3.10/site-packages/django/template/loader_tags.py", line 234, in do_block
+    nodelist = parser.parse(("endblock",))
+  File "/usr/local/lib/python3.10/site-packages/django/template/base.py", line 512, in parse
+    self.invalid_block_tag(token, command, parse_until)
+  File "/usr/local/lib/python3.10/site-packages/django/template/base.py", line 567, in invalid_block_tag
+    raise self.error(
+django.template.exceptions.TemplateSyntaxError: Invalid block tag on line 6: 'static', expected 'endblock'. Did you forget to register or load this tag?
+2025-07-08 06:24:52,340 [ERROR] django.server: "GET / HTTP/1.1" 500 152895
+2025-07-08 06:24:58,248 [ERROR] django.request: Internal Server Error: /
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/base.py", line 220, in _get_response
+    response = response.render()
+  File "/usr/local/lib/python3.10/site-packages/django/template/response.py", line 114, in render
+    self.content = self.rendered_content
+  File "/usr/local/lib/python3.10/site-packages/django/template/response.py", line 90, in rendered_content
+    template = self.resolve_template(self.template_name)
+  File "/usr/local/lib/python3.10/site-packages/django/template/response.py", line 72, in resolve_template
+    return select_template(template, using=self.using)
+  File "/usr/local/lib/python3.10/site-packages/django/template/loader.py", line 42, in select_template
+    return engine.get_template(template_name)
+  File "/usr/local/lib/python3.10/site-packages/django/template/backends/django.py", line 79, in get_template
+    return Template(self.engine.get_template(template_name), self)
+  File "/usr/local/lib/python3.10/site-packages/django/template/engine.py", line 177, in get_template
+    template, origin = self.find_template(template_name)
+  File "/usr/local/lib/python3.10/site-packages/django/template/engine.py", line 159, in find_template
+    template = loader.get_template(name, skip=skip)
+  File "/usr/local/lib/python3.10/site-packages/django/template/loaders/cached.py", line 57, in get_template
+    template = super().get_template(template_name, skip)
+  File "/usr/local/lib/python3.10/site-packages/django/template/loaders/base.py", line 28, in get_template
+    return Template(
+  File "/usr/local/lib/python3.10/site-packages/django/template/base.py", line 154, in __init__
+    self.nodelist = self.compile_nodelist()
+  File "/usr/local/lib/python3.10/site-packages/django/template/base.py", line 196, in compile_nodelist
+    nodelist = parser.parse()
+  File "/usr/local/lib/python3.10/site-packages/django/template/base.py", line 519, in parse
+    self.extend_nodelist(nodelist, compiled_result, token)
+  File "/usr/local/lib/python3.10/site-packages/django/template/base.py", line 540, in extend_nodelist
+    raise self.error(
+django.template.exceptions.TemplateSyntaxError: {% extends "main.html" %} must be the first tag in 'index.html'.
+2025-07-08 06:24:58,249 [ERROR] django.server: "GET / HTTP/1.1" 500 117515
+2025-07-08 06:24:58,702 [ERROR] django.request: Internal Server Error: /
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/base.py", line 220, in _get_response
+    response = response.render()
+  File "/usr/local/lib/python3.10/site-packages/django/template/response.py", line 114, in render
+    self.content = self.rendered_content
+  File "/usr/local/lib/python3.10/site-packages/django/template/response.py", line 90, in rendered_content
+    template = self.resolve_template(self.template_name)
+  File "/usr/local/lib/python3.10/site-packages/django/template/response.py", line 72, in resolve_template
+    return select_template(template, using=self.using)
+  File "/usr/local/lib/python3.10/site-packages/django/template/loader.py", line 42, in select_template
+    return engine.get_template(template_name)
+  File "/usr/local/lib/python3.10/site-packages/django/template/backends/django.py", line 79, in get_template
+    return Template(self.engine.get_template(template_name), self)
+  File "/usr/local/lib/python3.10/site-packages/django/template/engine.py", line 177, in get_template
+    template, origin = self.find_template(template_name)
+  File "/usr/local/lib/python3.10/site-packages/django/template/engine.py", line 159, in find_template
+    template = loader.get_template(name, skip=skip)
+  File "/usr/local/lib/python3.10/site-packages/django/template/loaders/cached.py", line 57, in get_template
+    template = super().get_template(template_name, skip)
+  File "/usr/local/lib/python3.10/site-packages/django/template/loaders/base.py", line 28, in get_template
+    return Template(
+  File "/usr/local/lib/python3.10/site-packages/django/template/base.py", line 154, in __init__
+    self.nodelist = self.compile_nodelist()
+  File "/usr/local/lib/python3.10/site-packages/django/template/base.py", line 196, in compile_nodelist
+    nodelist = parser.parse()
+  File "/usr/local/lib/python3.10/site-packages/django/template/base.py", line 519, in parse
+    self.extend_nodelist(nodelist, compiled_result, token)
+  File "/usr/local/lib/python3.10/site-packages/django/template/base.py", line 540, in extend_nodelist
+    raise self.error(
+django.template.exceptions.TemplateSyntaxError: {% extends "main.html" %} must be the first tag in 'index.html'.
+2025-07-08 06:24:58,703 [ERROR] django.server: "GET / HTTP/1.1" 500 117515
+2025-07-08 06:24:58,936 [ERROR] django.request: Internal Server Error: /
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/base.py", line 220, in _get_response
+    response = response.render()
+  File "/usr/local/lib/python3.10/site-packages/django/template/response.py", line 114, in render
+    self.content = self.rendered_content
+  File "/usr/local/lib/python3.10/site-packages/django/template/response.py", line 90, in rendered_content
+    template = self.resolve_template(self.template_name)
+  File "/usr/local/lib/python3.10/site-packages/django/template/response.py", line 72, in resolve_template
+    return select_template(template, using=self.using)
+  File "/usr/local/lib/python3.10/site-packages/django/template/loader.py", line 42, in select_template
+    return engine.get_template(template_name)
+  File "/usr/local/lib/python3.10/site-packages/django/template/backends/django.py", line 79, in get_template
+    return Template(self.engine.get_template(template_name), self)
+  File "/usr/local/lib/python3.10/site-packages/django/template/engine.py", line 177, in get_template
+    template, origin = self.find_template(template_name)
+  File "/usr/local/lib/python3.10/site-packages/django/template/engine.py", line 159, in find_template
+    template = loader.get_template(name, skip=skip)
+  File "/usr/local/lib/python3.10/site-packages/django/template/loaders/cached.py", line 57, in get_template
+    template = super().get_template(template_name, skip)
+  File "/usr/local/lib/python3.10/site-packages/django/template/loaders/base.py", line 28, in get_template
+    return Template(
+  File "/usr/local/lib/python3.10/site-packages/django/template/base.py", line 154, in __init__
+    self.nodelist = self.compile_nodelist()
+  File "/usr/local/lib/python3.10/site-packages/django/template/base.py", line 196, in compile_nodelist
+    nodelist = parser.parse()
+  File "/usr/local/lib/python3.10/site-packages/django/template/base.py", line 519, in parse
+    self.extend_nodelist(nodelist, compiled_result, token)
+  File "/usr/local/lib/python3.10/site-packages/django/template/base.py", line 540, in extend_nodelist
+    raise self.error(
+django.template.exceptions.TemplateSyntaxError: {% extends "main.html" %} must be the first tag in 'index.html'.
+2025-07-08 06:24:58,936 [ERROR] django.server: "GET / HTTP/1.1" 500 117515
+2025-07-08 06:24:59,119 [ERROR] django.request: Internal Server Error: /
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/base.py", line 220, in _get_response
+    response = response.render()
+  File "/usr/local/lib/python3.10/site-packages/django/template/response.py", line 114, in render
+    self.content = self.rendered_content
+  File "/usr/local/lib/python3.10/site-packages/django/template/response.py", line 90, in rendered_content
+    template = self.resolve_template(self.template_name)
+  File "/usr/local/lib/python3.10/site-packages/django/template/response.py", line 72, in resolve_template
+    return select_template(template, using=self.using)
+  File "/usr/local/lib/python3.10/site-packages/django/template/loader.py", line 42, in select_template
+    return engine.get_template(template_name)
+  File "/usr/local/lib/python3.10/site-packages/django/template/backends/django.py", line 79, in get_template
+    return Template(self.engine.get_template(template_name), self)
+  File "/usr/local/lib/python3.10/site-packages/django/template/engine.py", line 177, in get_template
+    template, origin = self.find_template(template_name)
+  File "/usr/local/lib/python3.10/site-packages/django/template/engine.py", line 159, in find_template
+    template = loader.get_template(name, skip=skip)
+  File "/usr/local/lib/python3.10/site-packages/django/template/loaders/cached.py", line 57, in get_template
+    template = super().get_template(template_name, skip)
+  File "/usr/local/lib/python3.10/site-packages/django/template/loaders/base.py", line 28, in get_template
+    return Template(
+  File "/usr/local/lib/python3.10/site-packages/django/template/base.py", line 154, in __init__
+    self.nodelist = self.compile_nodelist()
+  File "/usr/local/lib/python3.10/site-packages/django/template/base.py", line 196, in compile_nodelist
+    nodelist = parser.parse()
+  File "/usr/local/lib/python3.10/site-packages/django/template/base.py", line 519, in parse
+    self.extend_nodelist(nodelist, compiled_result, token)
+  File "/usr/local/lib/python3.10/site-packages/django/template/base.py", line 540, in extend_nodelist
+    raise self.error(
+django.template.exceptions.TemplateSyntaxError: {% extends "main.html" %} must be the first tag in 'index.html'.
+2025-07-08 06:24:59,120 [ERROR] django.server: "GET / HTTP/1.1" 500 117515
+2025-07-08 06:25:45,798 [WARNING] django.request: Not Found: /favicon.ico
+2025-07-08 06:25:45,799 [WARNING] django.server: "GET /favicon.ico HTTP/1.1" 404 2456
+2025-07-08 06:28:24,668 [WARNING] django.request: Not Found: /favicon.ico
+2025-07-08 06:28:24,669 [WARNING] django.server: "GET /favicon.ico HTTP/1.1" 404 2456
+2025-07-08 06:36:49,758 [WARNING] django.request: Not Found: /favicon.ico
+2025-07-08 06:36:49,758 [WARNING] django.server: "GET /favicon.ico HTTP/1.1" 404 2456
+2025-07-08 06:39:44,920 [WARNING] django.request: Not Found: /favicon.ico
+2025-07-08 06:39:44,920 [WARNING] django.server: "GET /favicon.ico HTTP/1.1" 404 2456
+2025-07-08 06:40:40,024 [ERROR] django.request: Internal Server Error: /admin/projeto/lugar/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/django/db/backends/utils.py", line 105, in _execute
+    return self.cursor.execute(sql, params)
+  File "/usr/local/lib/python3.10/site-packages/django/db/backends/sqlite3/base.py", line 360, in execute
+    return super().execute(query, params)
+sqlite3.OperationalError: no such table: projeto_lugar
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/contrib/admin/options.py", line 719, in wrapper
+    return self.admin_site.admin_view(view)(*args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/utils/decorators.py", line 192, in _view_wrapper
+    result = _process_exception(request, e)
+  File "/usr/local/lib/python3.10/site-packages/django/utils/decorators.py", line 190, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/views/decorators/cache.py", line 80, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/contrib/admin/sites.py", line 246, in inner
+    return view(request, *args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/utils/decorators.py", line 48, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/utils/decorators.py", line 192, in _view_wrapper
+    result = _process_exception(request, e)
+  File "/usr/local/lib/python3.10/site-packages/django/utils/decorators.py", line 190, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/contrib/admin/options.py", line 2024, in changelist_view
+    cl = self.get_changelist_instance(request)
+  File "/usr/local/lib/python3.10/site-packages/django/contrib/admin/options.py", line 867, in get_changelist_instance
+    return ChangeList(
+  File "/usr/local/lib/python3.10/site-packages/django/contrib/admin/views/main.py", line 146, in __init__
+    self.get_results(request)
+  File "/usr/local/lib/python3.10/site-packages/django/contrib/admin/views/main.py", line 313, in get_results
+    result_count = paginator.count
+  File "/usr/local/lib/python3.10/site-packages/django/utils/functional.py", line 47, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/usr/local/lib/python3.10/site-packages/django/core/paginator.py", line 110, in count
+    return c()
+  File "/usr/local/lib/python3.10/site-packages/django/db/models/query.py", line 604, in count
+    return self.query.get_count(using=self.db)
+  File "/usr/local/lib/python3.10/site-packages/django/db/models/sql/query.py", line 644, in get_count
+    return obj.get_aggregation(using, {"__count": Count("*")})["__count"]
+  File "/usr/local/lib/python3.10/site-packages/django/db/models/sql/query.py", line 626, in get_aggregation
+    result = compiler.execute_sql(SINGLE)
+  File "/usr/local/lib/python3.10/site-packages/django/db/models/sql/compiler.py", line 1623, in execute_sql
+    cursor.execute(sql, params)
+  File "/usr/local/lib/python3.10/site-packages/django/db/backends/utils.py", line 122, in execute
+    return super().execute(sql, params)
+  File "/usr/local/lib/python3.10/site-packages/django/db/backends/utils.py", line 79, in execute
+    return self._execute_with_wrappers(
+  File "/usr/local/lib/python3.10/site-packages/django/db/backends/utils.py", line 92, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "/usr/local/lib/python3.10/site-packages/django/db/backends/utils.py", line 100, in _execute
+    with self.db.wrap_database_errors:
+  File "/usr/local/lib/python3.10/site-packages/django/db/utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "/usr/local/lib/python3.10/site-packages/django/db/backends/utils.py", line 105, in _execute
+    return self.cursor.execute(sql, params)
+  File "/usr/local/lib/python3.10/site-packages/django/db/backends/sqlite3/base.py", line 360, in execute
+    return super().execute(query, params)
+django.db.utils.OperationalError: no such table: projeto_lugar
+2025-07-08 06:40:40,027 [ERROR] django.server: "GET /admin/projeto/lugar/ HTTP/1.1" 500 184742
+2025-07-08 06:40:43,794 [ERROR] django.request: Internal Server Error: /admin/projeto/lugar/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/django/db/backends/utils.py", line 105, in _execute
+    return self.cursor.execute(sql, params)
+  File "/usr/local/lib/python3.10/site-packages/django/db/backends/sqlite3/base.py", line 360, in execute
+    return super().execute(query, params)
+sqlite3.OperationalError: no such table: projeto_lugar
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/contrib/admin/options.py", line 719, in wrapper
+    return self.admin_site.admin_view(view)(*args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/utils/decorators.py", line 192, in _view_wrapper
+    result = _process_exception(request, e)
+  File "/usr/local/lib/python3.10/site-packages/django/utils/decorators.py", line 190, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/views/decorators/cache.py", line 80, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/contrib/admin/sites.py", line 246, in inner
+    return view(request, *args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/utils/decorators.py", line 48, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/utils/decorators.py", line 192, in _view_wrapper
+    result = _process_exception(request, e)
+  File "/usr/local/lib/python3.10/site-packages/django/utils/decorators.py", line 190, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/contrib/admin/options.py", line 2024, in changelist_view
+    cl = self.get_changelist_instance(request)
+  File "/usr/local/lib/python3.10/site-packages/django/contrib/admin/options.py", line 867, in get_changelist_instance
+    return ChangeList(
+  File "/usr/local/lib/python3.10/site-packages/django/contrib/admin/views/main.py", line 146, in __init__
+    self.get_results(request)
+  File "/usr/local/lib/python3.10/site-packages/django/contrib/admin/views/main.py", line 313, in get_results
+    result_count = paginator.count
+  File "/usr/local/lib/python3.10/site-packages/django/utils/functional.py", line 47, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/usr/local/lib/python3.10/site-packages/django/core/paginator.py", line 110, in count
+    return c()
+  File "/usr/local/lib/python3.10/site-packages/django/db/models/query.py", line 604, in count
+    return self.query.get_count(using=self.db)
+  File "/usr/local/lib/python3.10/site-packages/django/db/models/sql/query.py", line 644, in get_count
+    return obj.get_aggregation(using, {"__count": Count("*")})["__count"]
+  File "/usr/local/lib/python3.10/site-packages/django/db/models/sql/query.py", line 626, in get_aggregation
+    result = compiler.execute_sql(SINGLE)
+  File "/usr/local/lib/python3.10/site-packages/django/db/models/sql/compiler.py", line 1623, in execute_sql
+    cursor.execute(sql, params)
+  File "/usr/local/lib/python3.10/site-packages/django/db/backends/utils.py", line 122, in execute
+    return super().execute(sql, params)
+  File "/usr/local/lib/python3.10/site-packages/django/db/backends/utils.py", line 79, in execute
+    return self._execute_with_wrappers(
+  File "/usr/local/lib/python3.10/site-packages/django/db/backends/utils.py", line 92, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "/usr/local/lib/python3.10/site-packages/django/db/backends/utils.py", line 100, in _execute
+    with self.db.wrap_database_errors:
+  File "/usr/local/lib/python3.10/site-packages/django/db/utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "/usr/local/lib/python3.10/site-packages/django/db/backends/utils.py", line 105, in _execute
+    return self.cursor.execute(sql, params)
+  File "/usr/local/lib/python3.10/site-packages/django/db/backends/sqlite3/base.py", line 360, in execute
+    return super().execute(query, params)
+django.db.utils.OperationalError: no such table: projeto_lugar
+2025-07-08 06:40:43,795 [ERROR] django.server: "GET /admin/projeto/lugar/ HTTP/1.1" 500 184724
+2025-07-08 06:45:05,362 [WARNING] django.request: Not Found: /favicon.ico
+2025-07-08 06:45:05,362 [WARNING] django.server: "GET /favicon.ico HTTP/1.1" 404 2456
+2025-07-08 06:47:30,127 [WARNING] django.request: Not Found: /favicon.ico
+2025-07-08 06:47:30,128 [WARNING] django.server: "GET /favicon.ico HTTP/1.1" 404 2456
+2025-07-08 06:48:32,395 [WARNING] django.request: Not Found: /favicon.ico
+2025-07-08 06:48:32,396 [WARNING] django.server: "GET /favicon.ico HTTP/1.1" 404 2456
+2025-07-08 06:49:54,408 [WARNING] django.request: Not Found: /uploads/fotos_lugar/cafeucs.png
+2025-07-08 06:49:54,408 [WARNING] django.server: "GET /uploads/fotos_lugar/cafeucs.png HTTP/1.1" 404 2516
+2025-07-08 06:49:54,978 [WARNING] django.request: Not Found: /uploads/fotos_lugar/cafeucs.png
+2025-07-08 06:49:54,979 [WARNING] django.server: "GET /uploads/fotos_lugar/cafeucs.png HTTP/1.1" 404 2516
+2025-07-08 06:50:27,565 [WARNING] django.request: Not Found: /fotos_lugar/275px-Th08Kaguya.png
+2025-07-08 06:50:27,565 [WARNING] django.server: "GET /fotos_lugar/275px-Th08Kaguya.png HTTP/1.1" 404 2519
+2025-07-08 06:50:27,594 [WARNING] django.request: Not Found: /favicon.ico
+2025-07-08 06:50:27,594 [WARNING] django.server: "GET /favicon.ico HTTP/1.1" 404 2456
+2025-07-08 06:50:28,347 [WARNING] django.request: Not Found: /fotos_lugar/275px-Th08Kaguya.png
+2025-07-08 06:50:28,347 [WARNING] django.server: "GET /fotos_lugar/275px-Th08Kaguya.png HTTP/1.1" 404 2519
+2025-07-08 06:50:28,706 [WARNING] django.request: Not Found: /fotos_lugar/275px-Th08Kaguya.png
+2025-07-08 06:50:28,706 [WARNING] django.server: "GET /fotos_lugar/275px-Th08Kaguya.png HTTP/1.1" 404 2519
+2025-07-08 06:52:36,475 [WARNING] django.request: Not Found: /favicon.ico
+2025-07-08 06:52:36,476 [WARNING] django.server: "GET /favicon.ico HTTP/1.1" 404 2456
+2025-07-08 06:53:24,376 [WARNING] django.request: Not Found: /favicon.ico
+2025-07-08 06:53:24,376 [WARNING] django.server: "GET /favicon.ico HTTP/1.1" 404 2456
+2025-07-08 06:53:24,920 [WARNING] django.request: Not Found: /favicon.ico
+2025-07-08 06:53:24,921 [WARNING] django.server: "GET /favicon.ico HTTP/1.1" 404 2456
+2025-07-08 06:56:11,959 [WARNING] django.request: Not Found: /favicon.ico
+2025-07-08 06:56:11,959 [WARNING] django.server: "GET /favicon.ico HTTP/1.1" 404 2456
+2025-07-08 07:00:27,651 [WARNING] django.request: Not Found: /favicon.ico
+2025-07-08 07:00:27,651 [WARNING] django.server: "GET /favicon.ico HTTP/1.1" 404 2456
+2025-07-08 07:00:57,694 [WARNING] django.request: Not Found: /favicon.ico
+2025-07-08 07:00:57,694 [WARNING] django.server: "GET /favicon.ico HTTP/1.1" 404 2456
+2025-07-08 07:01:44,589 [WARNING] django.request: Not Found: /favicon.ico
+2025-07-08 07:01:44,589 [WARNING] django.server: "GET /favicon.ico HTTP/1.1" 404 2456
+2025-07-08 07:02:33,184 [WARNING] django.request: Not Found: /favicon.ico
+2025-07-08 07:02:33,184 [WARNING] django.server: "GET /favicon.ico HTTP/1.1" 404 2456
+2025-07-08 07:02:34,407 [WARNING] django.request: Not Found: /favicon.ico
+2025-07-08 07:02:34,407 [WARNING] django.server: "GET /favicon.ico HTTP/1.1" 404 2456
+2025-07-08 07:02:41,706 [WARNING] django.request: Not Found: /favicon.ico
+2025-07-08 07:02:41,707 [WARNING] django.server: "GET /favicon.ico HTTP/1.1" 404 2456
+2025-07-08 07:03:03,598 [WARNING] django.request: Not Found: /favicon.ico
+2025-07-08 07:03:03,599 [WARNING] django.server: "GET /favicon.ico HTTP/1.1" 404 2456
+2025-07-08 07:03:04,554 [WARNING] django.request: Not Found: /favicon.ico
+2025-07-08 07:03:04,555 [WARNING] django.server: "GET /favicon.ico HTTP/1.1" 404 2456
+2025-07-08 07:03:13,519 [WARNING] django.request: Not Found: /favicon.ico
+2025-07-08 07:03:13,519 [WARNING] django.server: "GET /favicon.ico HTTP/1.1" 404 2456
+2025-07-08 07:03:17,953 [WARNING] django.request: Not Found: /favicon.ico
+2025-07-08 07:03:17,954 [WARNING] django.server: "GET /favicon.ico HTTP/1.1" 404 2456
+2025-07-08 07:04:11,666 [WARNING] django.request: Not Found: /favicon.ico
+2025-07-08 07:04:11,666 [WARNING] django.server: "GET /favicon.ico HTTP/1.1" 404 2456
+2025-07-08 07:10:03,449 [WARNING] django.request: Not Found: /favicon.ico
+2025-07-08 07:10:03,449 [WARNING] django.server: "GET /favicon.ico HTTP/1.1" 404 2456
+2025-07-08 07:10:03,942 [WARNING] django.request: Not Found: /favicon.ico
+2025-07-08 07:10:03,942 [WARNING] django.server: "GET /favicon.ico HTTP/1.1" 404 2456
+2025-07-08 07:10:18,433 [WARNING] django.request: Not Found: /favicon.ico
+2025-07-08 07:10:18,434 [WARNING] django.server: "GET /favicon.ico HTTP/1.1" 404 2456
